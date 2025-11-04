@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Naruto",
+    "genre": "anime",
+    "platform": "sibnet",
+    "url": "https://video.sibnet.ru/video123456/",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
+  },
+  {
+    "title": "One Piece",
+    "genre": "anime",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=abcd1234",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/One_Piece_Logo.png"
+  },
+  {
+    "title": "Breaking Bad",
+    "genre": "series",
+    "platform": "vimeo",
+    "url": "https://vimeo.com/12345678",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png"
+  },
+  {
+    "title": "Inception",
+    "genre": "films",
+    "platform": "direct",
+    "url": "https://example.com/inception.mp4",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
+  }
+]
